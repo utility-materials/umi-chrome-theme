@@ -72,7 +72,7 @@ scripts/
 ## Related
 
 - [themes.utility.materials.nyc](https://themes.utility.materials.nyc) — index of all UMI themes
-- [Utility Materials for VS Code](https://github.com/alexh/umi-vs-code-theme) — canonical palette reference
+- [Utility Materials for VS Code](https://github.com/utility-materials/umi-vs-code-theme) — canonical palette reference
 
 ## License
 

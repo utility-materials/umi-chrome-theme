@@ -83,4 +83,4 @@ If this policy changes, the updated version will be published at the same URL wi
 
 ## Contact
 
-Open an issue at https://github.com/alexh/umi-chrome-theme/issues for any privacy questions or concerns.
+Open an issue at https://github.com/utility-materials/umi-chrome-theme/issues for any privacy questions or concerns.
